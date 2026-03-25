@@ -34,5 +34,4 @@ function salario() {
     }else{
         prompt("Você obteve lucro!");
     }
-
 }

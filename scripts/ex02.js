@@ -10,6 +10,5 @@ function contagem() {
         if (i < 1) {
             alert("Lançamento realizado");
         }
-
     }
 }
