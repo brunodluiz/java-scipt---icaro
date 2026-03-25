@@ -1,4 +1,4 @@
-function somarnumeros() {
+function somarNumeros() {
 
     let soma = 0;
     let continuar = true;
